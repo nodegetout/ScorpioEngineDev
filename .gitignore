@@ -1,0 +1,8 @@
+# Unity temporary folders
+/Temp
+/Library
+/obj
+/Logs
+
+
+*.csproj
